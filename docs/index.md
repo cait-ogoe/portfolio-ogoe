@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Caitlin Ogoe"
+  text: "A 6.1040 Portfolio"
+  tagline: "Users: the interesting part of Computer Science"
   actions:
     - theme: brand
       text: Template Repository
