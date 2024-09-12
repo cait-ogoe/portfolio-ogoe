@@ -3,7 +3,7 @@ title: Close Connections and Far Away Obsessions
 layout: doc
 ---
 
-# Close Connections and Far Away Obsessions
+# Close Connections, Far Away Together
 
 
 ## Hunch
@@ -13,6 +13,20 @@ I would like to explore building a social media platform that reinforces and sup
 ## Interview Prep
 
 In thinking about an app that looks to reinforce real life connections, I immediately thought of interviewing a family. In this way, I could not only compare generational divides in social media uses, but also explore what social media use within a well connected social circle would look like, and what features could make such an application meaningful. 
+
+## General Interview Questions
+
+- Tell me about yourself!
+- Which social media do you use?
+- When did you start using social media, and why did you join it?
+- How do you choose what platforms to use?
+- How frequently do you post on your social media of choice? Why do you do it?
+- How many people do you follow, how do you choose them?
+- Do you share social media you did not make with others?
+- How do you communicate with your close friends and family?
+- Do you try to get to know strangers on social media? Do you have a public profile? (if applicable)
+- Do you use social media to communicate with friends and family?
+- Do you let your children use social media? How do you feel about social media for children in general?
 
 ## The Interviewees
 
