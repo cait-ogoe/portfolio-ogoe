@@ -3,6 +3,19 @@
  * https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css
  */
 
+ .vp-doc p {
+  margin-bottom: 0;
+}
+
+.extra-bold {
+  font-weight: 800;
+}
+
+.tab-in {
+  padding-left: 2em;
+}
+
+
 /**
  * Colors
  * -------------------------------------------------------------------------- */
@@ -88,4 +101,3 @@
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand) !important;
 }
-
